@@ -47,13 +47,13 @@ Este é um projeto interativo em Python para **gestão de vendas e visualizaçã
 ### Pré-requisitos
 Certifique-se de ter o **Python** instalado em sua máquina.
 
-### 1. Clonar o repositório
+### 1. Clonar o repositorio
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 ```
 
-### 2. Instalar as dependências
+### 2. Instalar as dependencias
 Execute o comando abaixo no terminal para instalar as bibliotecas necessárias:
 
 ```bash
